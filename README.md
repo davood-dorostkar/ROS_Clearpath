@@ -7,3 +7,4 @@ https://github.com/davood-dorostkar/ROS_Clearpath/wiki/Docker
 https://github.com/davood-dorostkar/ROS_Clearpath/wiki/Install-ROS
 
 ### Running Gazebo and Rviz
+https://github.com/davood-dorostkar/ROS_Clearpath/wiki/Running-Gazebo-and-Rviz
